@@ -1,0 +1,50 @@
+baseurl         = "https://futuremoney.info"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Future Money"
+  subtitle    = "A simple plan to always have money."
+
+  cover       = "img/allef-vinicius-468838-unsplash.jpg"
+  description = "A simple plan to always have money."
+  metaDescription = "A simple plan to always have money."
+  googleAnalytics = "UA-11309297-2"
+  customCSS   = ["css/overrides.css"]
+  RSSLink = ""
+
+  twitterName = "buwilliams"
+  fbName = ""
+  githubName = ""
+
+  #logo = "hugo-logo.png"
+  orgName = "Future Money"
+  orgWebsite = "https://futuremoney.info"
+  orgDescription = "A simple plan to always have money."
+
+  author = "Buddy"
+  authorAvatar = "img/profile.jpg"
+  authorLocation = "Atlanta, GA"
+  authorWebsite = "https://medium.com/@buwilliams"
+  authorDescription = "Part time mad computer scientist, full time lover of the extraordinary."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Future Money"
+  url = "/"
+  weight = 300
+
+[[menu.main]]
+  name = "The Plan"
+  url = "/the-plan/"
+  weight = 200
