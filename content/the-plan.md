@@ -4,7 +4,7 @@ date: 2018-09-02T08:07:53-04:00
 draft: false
 ---
 
-![The Plan](/img/rawpixel-570908-unsplash.jpg)
+![The Plan](/img/simon-migaj-547079-unsplash.jpg)
 
 ## The Problem
 ### 3 out 4 Americans live paycheck to paycheck.
