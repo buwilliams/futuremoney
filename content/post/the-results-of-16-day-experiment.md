@@ -2,7 +2,7 @@
 title: "The results of the 16-day experiment"
 date: 2018-09-06T08:02:25-04:00
 draft: false
-image: ""
+image: "img/keith-luke-679667-unsplash.jpg"
 ---
 
 ## The Results
