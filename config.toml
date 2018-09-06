@@ -3,6 +3,7 @@ theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
+title           = "Future Money"
 #SectionPagesMenu = "main"
 
 [params]
@@ -35,16 +36,19 @@ paginate        = 6
 
   #casper or caspertwo
   singleViewStyle = "casper"
+  logo = "img/logo.png"
 
 [permalinks]
-  post = "/:slug/"
+  post = "/post/:slug/"
 
 [[menu.main]]
-  name = "Future Money"
+  name = "Home"
   url = "/"
   weight = 300
+  IsHome = true
+  title = "future money"
 
 [[menu.main]]
   name = "The Plan"
-  url = "/the-plan/"
+  url = "/post/the-plan/"
   weight = 200

@@ -1,5 +1,5 @@
 ---
-title: "16 Day Personal Finances Experiment"
+title: "16 day personal finances experiment"
 date: 2018-08-16T15:34:12-04:00
 draft: false
 image: "img/chuttersnap-233105-unsplash.jpg"

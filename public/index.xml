@@ -1,43 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Home - Future Money on Future Money</title>
     <link>https://futuremoney.info/</link>
-    <description>Recent content on </description>
+    <description>Recent content in Home - Future Money on Future Money</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Sep 2018 07:40:36 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Sep 2018 10:55:10 -0400</lastBuildDate>
     
 	<atom:link href="https://futuremoney.info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Plan</title>
-      <link>https://futuremoney.info/the-plan/</link>
-      <pubDate>Sun, 02 Sep 2018 08:07:53 -0400</pubDate>
+      <title>The results of the 16-day experiment</title>
+      <link>https://futuremoney.info/post/the-results-of-the-16-day-experiment/</link>
+      <pubDate>Thu, 06 Sep 2018 08:02:25 -0400</pubDate>
       
-      <guid>https://futuremoney.info/the-plan/</guid>
+      <guid>https://futuremoney.info/post/the-results-of-the-16-day-experiment/</guid>
+      <description>The Results You know what&amp;rsquo;s coming: The experiment was a brilliant success. I&amp;rsquo;ve been able to manage my money better than ever. Not only did I hit my budget targets, I beat them. Future money allowed me to get control of my spending and with that kind of control the rest of my budget went according to plan more or less.
+16 day journal I made a point to write down how each day went.</description>
+    </item>
+    
+    <item>
+      <title>The Plan</title>
+      <link>https://futuremoney.info/post/the-plan/</link>
+      <pubDate>Thu, 06 Sep 2018 08:01:30 -0400</pubDate>
+      
+      <guid>https://futuremoney.info/post/the-plan/</guid>
       <description>The Problem 3 out 4 Americans live paycheck to paycheck. I&amp;rsquo;ve always spent what I&amp;rsquo;ve made. As my career grew so did my spending. Always living paycheck to paycheck. As my income grew so did my debts. I tried many ways to stop spending but nothing truly worked for me. What about you, can you relate?
 I blame the fact that delayed gratification is hard. Also, I was the kid jealous of other student&amp;rsquo;s packed lunches and new clothes.</description>
     </item>
     
     <item>
-      <title>Half Way: 16-Day Future Money Experiment</title>
-      <link>https://futuremoney.info/half-way-16-day-future-money-experiment/</link>
+      <title>Halfway: 16 day future money experiment</title>
+      <link>https://futuremoney.info/post/halfway-16-day-future-money-experiment/</link>
       <pubDate>Fri, 24 Aug 2018 15:36:30 -0400</pubDate>
       
-      <guid>https://futuremoney.info/half-way-16-day-future-money-experiment/</guid>
+      <guid>https://futuremoney.info/post/halfway-16-day-future-money-experiment/</guid>
       <description>If you haven’t read the original post, you’ll want to read 16-day personal finances experiment. This plan has worked so well that I’ve decided it deserves a #futuremoney hashtag. The main principal is easy to remember:
 Do not spend future money.
 The Results So Far I’m on day 9 of 16. In nine days, my view of money has radically changed but I’m not alone. As I’ve told my friends, they couldn’t wait for my experiment to end so they jumped in.</description>
     </item>
     
     <item>
-      <title>16 Day Personal Finances Experiment</title>
-      <link>https://futuremoney.info/16-day-personal-finances-experiment/</link>
+      <title>16 day personal finances experiment</title>
+      <link>https://futuremoney.info/post/16-day-personal-finances-experiment/</link>
       <pubDate>Thu, 16 Aug 2018 15:34:12 -0400</pubDate>
       
-      <guid>https://futuremoney.info/16-day-personal-finances-experiment/</guid>
+      <guid>https://futuremoney.info/post/16-day-personal-finances-experiment/</guid>
       <description>Personal finances is a complex topic. You might even say a complex system (click that link to understand why our efforts in fixing these sorts of problems often fail.) What research has been done on complex systems? How can we make them better? This post is about how to fix our personal finances. Well, it’s an experiment to see if the research helps.
 Like many of you, I’ve always spent what I make.</description>
     </item>
