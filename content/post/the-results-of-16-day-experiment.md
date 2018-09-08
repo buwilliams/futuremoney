@@ -10,7 +10,7 @@ image: "img/keith-luke-679667-unsplash.jpg"
 You know what's coming: _The experiment was a brilliant success._ I've been
 able to manage my money better than ever. Not only did I hit my budget targets,
 I beat them. Future money allowed me to get control of my spending and with
-that kind of control the rest of my budget went according to plan more or less.
+that kind of control the rest of my budget went according to plan.
 
 ## 16 day journal
 
