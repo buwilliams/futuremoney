@@ -2,7 +2,7 @@
 title: "Halfway: 16 day future money experiment"
 date: 2018-08-24T15:36:30-04:00
 draft: false
-image: "img/markus-spiske-544020-unsplash.jpg"
+image: "img/diego-vicente-145198-unsplash.jpg"
 ---
 
 If you haven’t read the original post, you’ll want to read 16-day personal finances experiment. This plan has worked so well that I’ve decided it deserves a #futuremoney hashtag. The main principal is easy to remember:

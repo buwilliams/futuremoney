@@ -2,7 +2,7 @@
 title: "16 day personal finances experiment"
 date: 2018-08-16T15:34:12-04:00
 draft: false
-image: "img/chuttersnap-233105-unsplash.jpg"
+image: "img/steve-johnson-628975-unsplash.jpg"
 ---
 
 Personal finances is a complex topic. You might even say a complex system (click that link to understand why our efforts in fixing these sorts of problems often fail.) What research has been done on complex systems? How can we make them better? This post is about how to fix our personal finances. Well, it’s an experiment to see if the research helps.
