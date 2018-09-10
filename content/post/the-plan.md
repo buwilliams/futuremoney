@@ -77,4 +77,4 @@ To learn more about how this came to be, you can read the original blog posts:
 
 - Part 1: [16-day personal finances experiment](/post/16-day-personal-finances-experiment/)
 - Part 2: [Half-way 16-day Future Money experiment](/post/half-way-16-day-future-money-experiment/)
-- Part 3: _Coming soon._
+- Part 3: [The results of the 16-day experiment](/post/the-results-of-the-16-day-experiment/)

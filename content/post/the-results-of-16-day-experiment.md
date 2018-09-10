@@ -7,13 +7,43 @@ image: "img/keith-luke-679667-unsplash.jpg"
 
 ## The Results
 
-You know what's coming: _The experiment was a brilliant success._ I've been
-able to manage my money better than ever. Not only did I hit my budget targets,
-I beat them. Future money allowed me to get control of my spending and with
-that kind of control the rest of my budget went according to plan.
+The 16-day experiment, Future Money, is complete. The idea was simple, live on a daily allowance. Each day I’d transfer my daily allowance into a debit checking account I call my Cash Account. I was only allowed to spend money out of this account. Expenses such as eating out, groceries, gasoline, clothes, and fun were paid out of my Cash Account. If I didn’t have the money in the Cash Account I wasn’t allowed to buy it. If I asked the question, can I buy X then I merely needed to look in my Cash Account to know. [You can read about the experiment here.](/post/16-day-personal-finances-experiment/)
+
+## I can see clearly now that the rain is gone.
+
+Living this way opened my eyes to what it means to be responsible with money. For the first time I felt the value of a single dollar. Phrases like, __“A penny saved is a penny earned.”__ were always replaying in my mind.
+
+I’m happy to report that I was able to stick to the plan. Each day, I spent only what I had in my Cash Account. For the first week it was fun being resourceful. After the first week, I felt depressed. I felt that I was so broke all the time. The more I restricted myself the more I found reasons to spend money. By the end of the 16 days I was so happy to be done with the experiment. I’d learned too much and overall it is a __brilliant success!__
+
+## Changing my daily allowance.
+
+I decided to increase my Daily Allowance by $10. It’s been another 16 days since then and I’m completely happy. I have plenty of money each day so I’m able to keep a rolling balance. During the week it grows since I spend less during the work week. I have no trouble affording gasoline, groceries, and fun activities. I do all this with complete assurance that I’m making wise financial decisions.
+
+People ask me what I’ll do once the DA account gets large. Will I put the extra money in savings? Will I ever start the Cash Account at zero again? My answer is the same, why would I do any of those things? I’m happy to let the account grow as big as it wants. That growth represents my process at handling money. It represents my ability to buy what I want when I want because I’ve earned it a day at a time. I cannot overstate how great having a balance in my Cash Account makes me feel. __I feel like a financial champion.__
+
+## In debt but not broke.
+
+I used to believe that because I had debts that until I paid them off I would be a failure. I now see that this was just a bad story I told myself. Debt can be repaid. Sure the financial institutions will earn their interest but what do I care? If I’m growing then I’m growing. I know that sounds mathematically irresponsible but I don’t think it is. The better I do as a person, the better I can do at work, the less stress I feel the more able I am. It’s all downhill from here and that’s the key. Once the machine is working, it’s all growth and that’s a great way to live. __You don’t have to be broke when you’re in debit.__
+
+## My buffers are growing.
+
+I have money in all my accounts. The buffers in each of them are all growing each time I’m paid. My business account balance is growing. My savings account balance is growing. My Main Checking account balance is growing and within a year I’ll have enough to no longer live paycheck to paycheck. I’m paying down debt responsibility. I’ve decided that growing my buffers is more important than aggressively paying down debt. This was a very important decision to make since if I’m able to handle the ups and downs of life my finances will not be ruined by an expected flat tire.
+
+**It’s financial security and it feels great.**
+
+## Vocabulary Words
+
+- **Future Money** - money meant to be used over time. You don’t have $500, you have $16 dollars over 31 days. This is the key principal to the whole plan.
+- **Present Money** - money which you are allowed to spend now.
+- **DA or Daily Allowance** - the amount of money you deposit into your Cash Account each day. You take a planned monthly amount, say $500, and divide it by 31 days to get your DA.
+- **Cash Account** - a debit card checking account which houses a rolling balance your present money. You buy gasoline, groceries, and fun out of this account.
+- **Main Account** - the account which gets your direct deposits, the checking account you pay bills from, the money you pay down debt and save money.
+- **Buffer** - any additional balance of money you keep in any account. This money acts a protection against being completely broke.
+
 
 ## 16 day journal
 
+I’ve kept a journal of my experience. You can read it below it all it’s glorious detail.
 I made a point to write down how each day went. I knew that research shows
 that if you write things down you're more likely to remember and stick with
 it.
