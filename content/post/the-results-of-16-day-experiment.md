@@ -59,7 +59,7 @@ it.
 - Needed gas. Went to QT. Bought $15 worth of gasoline. I was nervous to see how much that would give me. I was pleased to find that I got a half tank out of it. Plenty for the weekend.
 - Discovered an auto-draft bill for HBO coming out of my spending account that should be coming out of my billing account. Need correct or cancel. Transferring money to compensate amount.
 - Pending transactions are a pain. If you tip and the transaction is processing then the balance of your account is inaccurate because tip isn't included.
-- Needed to buy groceries for lunch do I did and picked up breakfast stuff to do that me and the kids have breakfast and lunch covered this weekend. Cost: $35.68
+- Bought groceries for breakfast and lunch to cover this weekend with my kids. Cost: $35.68
 - I've started to realize that the key is to build up enough money in my cash account that I wouldn't likely spend it on a single day, say $1,000 dollars
 - Sadly I bought chocolate milk because I assumed the one I had was expired but it wasn't.
 - Maybe the key principal is to never spend future money!
@@ -79,7 +79,6 @@ it.
 ### Day 4 of 16: Sunday
 
 - While transferring my daily allowance, my account balance was at $1.37 because another subscription I forgot about went through at $9.99. I was not happy. I pulled this money from my billing account since it's a bill.
-- I'm thinking about my vaping habit. It's $20 every 5 days. That's $4 of my daily allowance! Eek. I should quit for better health too. It makes me congested and anxious.
 - I shared the plan with my friend Chris and my Mom. Both are trying the plan or have said they will. I'd feel so grateful if they benefited. I think Casey and my work friend Chris may also try this.
 - Starting the day with $41.38.
 - Casey and I made Creamy White Chicken Chili. My portion cost $32. It'll last me 3 dinners! Dinner tends to be the most expensive for eating out. Plus, I had the money in my cash account.
